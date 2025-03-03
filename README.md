@@ -1,2 +1,2 @@
-# StudentManagementProject
-Student Management project(Java,spring,sql,html,css)
+# HospitalManagementProject
+hospital Management project(Java,spring,sql,html,css)
